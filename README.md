@@ -26,9 +26,11 @@ Data Base Mongo DB Atlas que es Cloud
 ![image](https://user-images.githubusercontent.com/86450207/123367057-edd85b00-d53e-11eb-9a11-f385b84f0c13.png)
  
 4.	Generando el artefacto con Graddle ejecutando un TEST al proyecto:
+
 ![image](https://user-images.githubusercontent.com/86450207/123367073-f466d280-d53e-11eb-94f6-28cee7b39144.png)
 
 5.	Validando el log de los TEST:
+
 ![image](https://user-images.githubusercontent.com/86450207/123367082-f7fa5980-d53e-11eb-8b9d-ce7ca8e1da90.png)
 
 6.	Examinando los resultados generados:
